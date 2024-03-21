@@ -35,7 +35,7 @@ public class ComparableEmployee implements Comparable<ComparableEmployee>{
         return salary;
     }
 
-     class RunComparator {
+     class RunComparable {
 
         public static void main(String[] args) {
 
