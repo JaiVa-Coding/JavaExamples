@@ -16,7 +16,7 @@ public class ComparatorEmployee implements Comparator<ComparatorEmployee>{
       this.lastname = lname;
     }
   
-    // User-friendly output when printed.
+   
     public String toString()
     {
       return "( " + id + ", " + firstname + " " + lastname +  " )";
